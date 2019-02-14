@@ -1,0 +1,198 @@
+{
+	"landscape": [{
+			"author": "Nadav Kander",
+			"title": "Dust",
+			"filename": "Dust_Nadav_Kander.jpg"
+		},
+
+		{
+			"author": "Brett Weston",
+			"title": "Reeds",
+			"filename": "Reeds_Brett_Weston.jpg"
+		},
+
+		{
+			"author": "Nadav Kander",
+			"title": "Restricted Areas",
+			"filename": "RestrictedAreas_Nadav_Kander.jpg"
+		},
+
+		{
+			"author": "Carr Clifton",
+			"title": "Untitled",
+			"filename": "Untitled1_Carr_Clifton.jpg"
+		},
+
+		{
+			"author": "Galen Rowell",
+			"title": "Untitled",
+			"filename": "Untitled1_Galen_Rowell.jpg"
+		},
+		{
+			"author": "Takeshi Mizukoshi",
+			"title": "Untitled",
+			"filename": "Untitled1_Takeshi_Mizukoshi.jpg"
+		},
+
+		{
+			"author": "Galen Rowell",
+			"title": "Untitled",
+			"filename": "Untitled2_Galen_Rowell.jpg"
+		},
+
+		{
+			"author": "Takeshi Mizukoshi",
+			"title": "Untitled",
+			"filename": "Untitled2_Takeshi_Mizukoshi.jpg"
+		},
+
+		{
+			"author": "Sebastio Salgado",
+			"title": "Wedell Sea",
+			"filename": "WedellSea_Sebastiao_Salgado.jpg"
+		},
+
+		{
+			"author": "Brett Weston",
+			"title": "White Sands",
+			"filename": "WhiteSands_Brett_Weston.jpg"
+		}
+
+	],
+
+	"landscapeinfo": {
+		"description": "Many landscape photographs show little or no human activity and are created in the pursuit of a pure, unsullied depiction of nature, devoid of human influence—instead featuring subjects such as strongly defined landforms, weather, and ambient light. As with most forms of art, the definition of a landscape photograph is broad."
+	},
+
+	"street": [{
+			"author": "Susan Meiselas",
+			"title": "Carnival Strippers",
+			"filename": "CarnivalStrippers_Susan_Meiselas.jpg"
+		},
+
+		{
+			"author": "Elliott Erwitt",
+			"title": "Cracked Glass with Boy",
+			"filename": "CrackedGlassWithBoy_Elliott_Erwitt.jpg"
+		},
+
+		{
+			"author": "Josef Koudelka",
+			"title": "CZECHOSLOVAKIA",
+			"filename": "CZECHOSLOVAKIA_Josef_Koudelka.jpg"
+		},
+
+		{
+			"author": "Jill Freedmann",
+			"title": "Firehouse",
+			"filename": "Firehouse_Jill_Freedman.jpg"
+		},
+
+		{
+			"author": "Henri Cartier Bresson",
+			"title": "FRANCE",
+			"filename": "FRANCE_Henri_Cartier_Bresson.jpg"
+		},
+		{
+			"author": "La diagonal des marches",
+			"title": "Robert Doisneau",
+			"filename": "LaDiagonaleDesMarches_Robert_Doisneau.jpg"
+		},
+
+		{
+			"author": "Josef Koudelka",
+			"title": "PORTUGAL",
+			"filename": "PORTUGAL_Josef_Koudelka.jpg"
+		},
+
+		{
+			"author": "The Kiss",
+			"title": "Robert Doisneau",
+			"filename": "TheKiss_Robert_Doisneau.jpg"
+		},
+
+		{
+			"author": "Gianni Berengo Gardin",
+			"title": "Untitled",
+			"filename": "Untitled_Gianni_Berengo_Gardin.jpg"
+		},
+
+		{
+			"author": "Brett Weston",
+			"title": "Helen Levitt",
+			"filename": "Untitled_Helen_Levitt.jpg"
+		}
+
+	],
+
+	"streetinfo": {
+		"description": "Street photography, also sometimes called candid photography, is photography conducted for art or enquiry that features unmediated chance encounters and random incidents within public places. Street photography does not necessitate the presence of a street or even the urban environment."
+	},
+
+	"wildlife": [{
+			"author": "Dan Kanz",
+			"title": "Bird Love",
+			"filename": "BirdLove_Dirk_Kanz.jpg"
+		},
+
+		{
+			"author": "Daniel Sakal",
+			"title": "Dueling Tigers",
+			"filename": "DuelingTigers_Daniel_Sakal.jpg"
+		},
+
+		{
+			"author": "Francisco Mingorance",
+			"title": "Fenec the Soul of the Desert",
+			"filename": "FenecTheSoulOfTheDesert_Francisco_Mingorance.jpg"
+		},
+
+		{
+			"author": "Alexander Poellinger",
+			"title": "Fish on Sticks",
+			"filename": "FishOnSticks_Alexander_Poellinger.jpg"
+		},
+
+		{
+			"author": "Robin Moore",
+			"title": "Fly Cap for a Vine Snake",
+			"filename": "FlyCapForAVineSnake_Robin_Moore.jpg"
+		},
+		{
+			"author": "Jayesh Mehta",
+			"title": "Get Away",
+			"filename": "GetAway_Jayesh_Mehta.jpg"
+		},
+
+		{
+			"author": "Brad Lenear",
+			"title": "Osprey Just Before Impact",
+			"filename": "OspreyJustBeforeImpact_Brad_Lenear.jpg"
+		},
+
+		{
+			"author": "Franceso Filippo Pellegrini",
+			"title": "Swifts over the Fall",
+			"filename": "SwiftsOverTheFall_Francesco_Filippo_Pellegrini.jpg"
+		},
+
+		{
+			"author": "Graham McGeorge",
+			"title": "The Gathering",
+			"filename": "TheGathering_Graham_McGeorge.jpg"
+		},
+
+		{
+			"author": "Ondrej Zaruba",
+			"title": "Walking Chameleon",
+			"filename": "WalkingChameleon_Ondrej_Zaruba.jpg"
+		}
+
+	],
+
+	"wildlifeinfo": {
+		"description": "Wildlife photography is a genre of photography concerned with documenting various forms of wildlife in their natural habitat. As well as requiring photography skills, wildlife photographers may need field craft skills. For example, some animals are difficult to approach and thus a knowledge of the animal's behavior is needed."
+        
+	}
+
+}
